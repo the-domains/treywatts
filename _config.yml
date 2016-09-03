@@ -1,23 +1,24 @@
-name: treywatts
-favicon: null
-layout_spectrum: 0.3365016817115247
 typography_spectrum: 0.6294922346714884
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors: []
   brandStrength: 0.7051207828335464
   lightness: 0.428702162578702
   saturation: 0.9451113299001008
   rhythmicContrast: 0.7430767284240574
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3365016817115247
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: treywatts
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ' WATTS'
 purpose: []
